@@ -1,1 +1,1 @@
-Just a simple website I am building t exercise what i learned.
+Just a simple website I built to exercise what I learned on html, css, and bootstrap.
